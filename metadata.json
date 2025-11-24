@@ -1,0 +1,9 @@
+{
+  "name": "EzGemini Live",
+  "description": "Real-time multimodal AI assistant capable of seeing your screen or webcam and having a natural voice conversation with you.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
